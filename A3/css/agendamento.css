@@ -16,6 +16,13 @@ body {
 
 }
 
+.tit-login {
+    font-size:x-large;
+    font-weight: 500;
+    font-family:'Bodoni MT Black';
+    
+}
+
 .navbar {
     height: 10%;
     background-image: linear-gradient(to right, rgba(124, 60, 60, 0.507), rgba(38, 109, 97, 0.473));
