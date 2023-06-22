@@ -1,0 +1,55 @@
+body {
+    background-color: #f2f2f2;
+    /* background-image: linear-gradient(to right, rgba(85, 39, 2, 0.658), rgba(56, 56, 56, 0.473)); */
+}
+
+.tit-login {
+    font-size:x-large;
+    font-weight: 500;
+    font-family:'Bodoni MT Black';
+    
+}
+
+.slider-1 {
+    background-color: rgb(182, 182, 182);
+    background-image: linear-gradient(to right, rgba(124, 60, 60, 0.507), rgba(38, 109, 97, 0.473));
+    /* border-radius: 8px; */
+    width: 100%;
+    height: 20%;
+    margin-top: 5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+} 
+
+.navbar {
+    height: 10%;
+    background-image: linear-gradient(to right, rgba(124, 60, 60, 0.507), rgba(38, 109, 97, 0.473));
+
+}
+
+.agendamentos {
+    background-color: rgb(194, 174, 149);
+    border-radius: 8px;
+    border-color: black;
+    border-style: double;
+    border-width: 5px;  
+    height: 30%;     
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    
+}
+
+.grid1 {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-bottom: 1%;
+        
+}
+
+.celula1{
+    border-radius: 3px;
+    background-color: aliceblue;
+
+}

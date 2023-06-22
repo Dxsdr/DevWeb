@@ -1,0 +1,25 @@
+body {
+    background-color: #f2f2f2;
+    /* background-image: linear-gradient(to right, rgba(85, 39, 2, 0.658), rgba(56, 56, 56, 0.473)); */
+}
+
+.tit-login {
+    font-size:x-large;
+    font-weight: 500;
+    font-family:'Bodoni MT Black';
+    
+}
+
+.form-1 {
+    background-color: rgb(182, 182, 182);
+    background-image: linear-gradient(to right, rgba(124, 60, 60, 0.507), rgba(38, 109, 97, 0.473));
+    border-radius: 8px;
+    margin-top: 10%;
+    padding: 20px;
+    
+} 
+
+.navbar {
+    background-image: linear-gradient(to right, rgba(124, 60, 60, 0.507), rgba(38, 109, 97, 0.473));
+
+}
